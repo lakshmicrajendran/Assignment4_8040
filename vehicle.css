@@ -1,0 +1,19 @@
+html{
+background: white;    
+}
+
+body{
+background-color: azure;
+}
+
+h1{
+    color:darkblue;
+    text-align: center;
+    font-stretch: semi-expanded;
+    font-size: 50px;
+}
+#details{
+    text-align: center;
+    font-weight: bold;
+    
+}
